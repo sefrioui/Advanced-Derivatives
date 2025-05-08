@@ -36,22 +36,22 @@ The key assumptions are:
    - Use tridiagonal system to interpolate intermediate maturities
    - Propagate prices using Andreasen-Huge method and back out volatilities
 
-## 📈 Output
+## Output
 
 - Final result is a 3D implied volatility surface over strike and time
 - See `Figure 1` for the plotted surface
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - Python / MATLAB (depending on implementation)
 - Excel for initial data loading
 - Matplotlib or similar for visualization
 
 
-## 📅 Date
+##  Date
 
 November 2024
 
-## 📄 Reference
+##  Reference
 
 - Andreasen, J., & Huge, B. (2011). *Volatility interpolation*. Risk Magazine.
